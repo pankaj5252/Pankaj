@@ -2,7 +2,7 @@ import Amazon from "./assets/projects/Amazon.png"
 import Crud from "./assets/projects/Crud.png"
 import Weather from "./assets/projects/Weather.png"
 import Portfolio from "./assets/projects/Portfolio.png"
-import Flixcom from "./assets/projects/Flixcom.png"
+import Flixcom from "./assets/Screenshot(303).png"
 
 const projects = [
     {
