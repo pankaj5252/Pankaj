@@ -88,8 +88,28 @@ const Resume = () => {
               <Slide direction="right">
                 <h3 className="resume-title">Professional Experience</h3>
                 <div className="resume-item m-5">
-                  <h4>‘Trainee Frontend Developer‘</h4>
-                  <h5>08 Aug 2023 - 08 Feb 2024</h5>
+                  <h4>‘Full Stack Developer‘</h4>
+                  <h5>May 2023 - Aug 2024</h5>
+                  <p>
+                    <em>A2Z INFOTECH PVT.LTD Ahmednagar</em>
+                  </p>
+                  <ul>
+                    <li>
+                      Lead in the design, development, and implementation of the
+                      graphic, layout, and production communication materials
+                    </li>
+                    <li>
+                      Delegate tasks to the 7 members of the design team and
+                      provide counsel on all aspects of the project.
+                    </li>
+                  </ul>
+                </div>
+              </Slide>
+               <Slide direction="right">
+                <h3 className="resume-title">Professional Experience</h3>
+                <div className="resume-item m-5">
+                  <h4>‘Full Stack Developer‘</h4>
+                  <h5>May 2023 - Aug 2024</h5>
                   <p>
                     <em>A2Z INFOTECH PVT.LTD Ahmednagar</em>
                   </p>
