@@ -95,10 +95,7 @@ const Resume = () => {
                   </p>
                   <ul>
                     <li>
-                     Developed a product called Invoice Billing System using PHP/Ajax,Js, applying modern frontend & Backend
-development
-SEP 2024 - Present
-principles and best practices
+                     Developed a product called Invoice Billing System using PHP/Ajax,Js, applying modern frontend & Backend development principles and best practices
                     </li>
                     <li>
                      Collaborated with the team to design and implement features, ensuring high-quality code and meeting deadlines
