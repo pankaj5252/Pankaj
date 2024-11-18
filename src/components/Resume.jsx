@@ -87,26 +87,24 @@ const Resume = () => {
             <div className="lg:w-1/2">
               <Slide direction="right">
                 <h3 className="resume-title">Professional Experience</h3>
-                <div className="resume-item m-5">
+                 <div className="resume-item m-5">
                   <h4>‘Full Stack Developer‘</h4>
-                  <h5>May 2023 - Aug 2024</h5>
+                  <h5>Sep 2023 - Present</h5>
                   <p>
-                    <em>A2Z INFOTECH PVT.LTD Ahmednagar</em>
+                    <em>TRON Softech</em>
                   </p>
                   <ul>
                     <li>
-                      Lead in the design, development, and implementation of the
-                      graphic, layout, and production communication materials
+                     Developed a product called Invoice Billing System using PHP/Ajax,Js, applying modern frontend & Backend
+development
+SEP 2024 - Present
+principles and best practices
                     </li>
                     <li>
-                      Delegate tasks to the 7 members of the design team and
-                      provide counsel on all aspects of the project.
+                     Collaborated with the team to design and implement features, ensuring high-quality code and meeting deadlines
                     </li>
                   </ul>
                 </div>
-              </Slide>
-               <Slide direction="right">
-                <h3 className="resume-title">Professional Experience</h3>
                 <div className="resume-item m-5">
                   <h4>‘Full Stack Developer‘</h4>
                   <h5>May 2023 - Aug 2024</h5>
