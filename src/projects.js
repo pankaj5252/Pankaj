@@ -2,6 +2,7 @@ import Amazon from "./assets/projects/Amazon.png"
 import Crud from "./assets/projects/Crud.png"
 import Weather from "./assets/projects/Weather.png"
 import Portfolio from "./assets/projects/Portfolio.png"
+import Flixcom from "./assets/projects/Flixcom.png"
 
 const projects = [
     {
@@ -28,13 +29,21 @@ const projects = [
         Image: { Weather },
         Link: "https://pankaj5252.github.io/Weather-App/",
     },
-    {
+      {
         id: "4",
         Name: "Personal Portfolio",
         Technologies: "ReactJS, Bootstrap, CSS, HTML",
         Description: "Designed a personal portfolio website highlighting projects, skills, and achievements, featuring links to GitHub projects and social media profiles",
         Image: { Portfolio },
         Link: "https://www.pankajkale.tech/",
+    },
+    {
+        id: "5",
+        Name: "Flixcom TV Shows & Movies List",
+        Technologies: "Angular,IMDB API, Bootstrap, CSS, HTML",
+        Description: "FlixComShow is a Movies and TV Shows listing application developed using Angular, which integrates the IMDB API to fetch real-time data. The app features a user-friendly interface, allowing users to explore a wide range of movies and TV shows with details such as titles, posters, ratings, and descriptions",
+        Image: { Flixcom },
+        Link: "https://flixcomshow.netlify.app/",
     }
 ]
 
